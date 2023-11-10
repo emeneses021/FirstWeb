@@ -1,8 +1,56 @@
-.fondo-verde {
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #457879;
+}
+
+#main{
+    margin: 0,5em;
+    background-color: #fff;
+    padding-bottom: 1em;
+    padding: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.titulo{
+    background-color: #eceadc;
+    border-radius: 1em;
+}
+.chat{
+    background-color: beige;
+    /*border: 0.2em solid black;*/
+    margin: 1em;
+    border-radius: 1em; /*Profe*/
+}
+.m-white{
+    margin-right: 60%;
+    border: 0.2em solid black;
+    border-bottom-left-radius: 1em;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    background-color: white;
+}
+
+.m-green{
+    margin-left: 60%;
+    border: 0.2em solid black;
+    border-bottom-left-radius: 1em;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
     background-color: greenyellow;
 }
 
-.fondo-blanco {
-    background-color: white;
+.title{
+    font-weight: bolder;
+    color: white;
+    background-color: #233c42;
+    padding: 0.5em;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
 }
+
+
 
